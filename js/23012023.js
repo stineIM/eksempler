@@ -20,21 +20,9 @@ let sum = number1 + number2;
 let newNumber = number1 - number2; // newNumber = 5
 newNumber = number1*number2; // newNumber = 50  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 console.log(sum);
+
+// Legge sammen tekst 
 
 let firstName = "Stine"; 
 let lastName = "Føyen";
